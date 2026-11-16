@@ -1,0 +1,19 @@
+metric,model,mean_diff_vs_LR,t,p_raw,p_holm,significant
+specificity,AdaBoost,-0.00256,-0.1323,0.89585,1.0,False
+specificity,Bernoulli NB,-0.0214,-0.72832,0.47346,1.0,False
+specificity,Decision Tree,0.00031,0.00784,0.99381,1.0,False
+specificity,HistGradientBoosting,-0.00046,-0.02665,0.97896,1.0,False
+specificity,LR + Interactions,-0.03828,-1.70965,0.10023,0.90209,False
+specificity,Random Forest,-0.00619,-0.28878,0.77523,1.0,False
+specificity,SVM,0.01687,0.78783,0.43851,1.0,False
+specificity,Soft-Vote Ensemble,0.00668,0.5183,0.60899,1.0,False
+specificity,k-NN,-0.03217,-1.12943,0.26988,1.0,False
+roc_auc,AdaBoost,-0.00401,-0.72634,0.47465,1.0,False
+roc_auc,Bernoulli NB,-0.00554,-0.64901,0.5225,1.0,False
+roc_auc,Decision Tree,-0.01251,-1.80528,0.08359,0.75233,False
+roc_auc,HistGradientBoosting,-0.0012,-0.24544,0.8082,1.0,False
+roc_auc,LR + Interactions,-0.00447,-0.71547,0.48122,1.0,False
+roc_auc,Random Forest,0.00314,0.46423,0.64667,1.0,False
+roc_auc,SVM,-0.00502,-0.66017,0.51543,1.0,False
+roc_auc,Soft-Vote Ensemble,0.00362,0.62748,0.53627,1.0,False
+roc_auc,k-NN,-0.00482,-0.65568,0.51827,1.0,False

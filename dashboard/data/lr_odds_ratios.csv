@@ -1,0 +1,17 @@
+,odds_ratio,ci_lo,ci_hi,ci_excludes_1
+mass_margins__CIRCUMSCRIBED,0.3322,0.1922,0.5642,True
+mass_shape__LYMPH_NODE,0.4364,0.2943,0.6989,True
+mass_margins__OBSCURED,0.4838,0.308,0.7549,True
+mass_margins__UNKNOWN,0.7798,0.3926,1.4021,False
+breast_right,0.8081,0.5682,1.1042,False
+breast_density,0.8651,0.6991,1.045,False
+mass_shape__OVAL,0.8787,0.5494,1.2766,False
+view_mlo,0.9623,0.8549,1.0958,False
+mass_shape__ROUND,1.0278,0.6102,1.6387,False
+subtlety,1.0485,0.879,1.3075,False
+mass_shape__ARCHITECTURAL_DISTORTION,1.2709,0.758,2.2867,False
+mass_shape__LOBULATED,1.3911,0.8575,2.1926,False
+mass_shape__IRREGULAR,2.3352,1.4653,3.6468,True
+mass_margins__MICROLOBULATED,2.7702,1.7422,4.6616,True
+mass_margins__ILL_DEFINED,3.1216,1.9386,5.0311,True
+mass_margins__SPICULATED,11.9481,7.5024,19.149,True

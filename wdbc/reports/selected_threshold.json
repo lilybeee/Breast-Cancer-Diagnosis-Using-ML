@@ -1,0 +1,30 @@
+{
+  "model": "Logistic Regression",
+  "threshold": 0.2,
+  "target_recall": 0.98,
+  "selection_rule": "highest threshold whose 5-fold cross-validated recall on the TRAINING split is >= the target; the held-out test set plays no part in this choice",
+  "training_cv_at_threshold": {
+    "recall": 0.9823529411764705,
+    "precision": 0.9226519337016574,
+    "specificity": 0.9508771929824561,
+    "f1": 0.9515669515669516,
+    "fn": 3.0,
+    "fp": 14.0
+  },
+  "training_cv_at_default_0.5": {
+    "recall": 0.9529411764705882,
+    "precision": 0.9759036144578314,
+    "specificity": 0.9859649122807017,
+    "f1": 0.9642857142857143,
+    "fn": 8.0,
+    "fp": 4.0
+  },
+  "test_at_threshold_reporting_only": {
+    "recall": 0.9761904761904762,
+    "precision": 0.9111111111111111,
+    "specificity": 0.9444444444444444,
+    "f1": 0.9425287356321839,
+    "fn": 1.0,
+    "fp": 4.0
+  }
+}

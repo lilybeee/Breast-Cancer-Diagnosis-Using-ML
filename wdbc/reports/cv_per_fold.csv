@@ -1,0 +1,1201 @@
+model,metric,fold,score
+Logistic Regression,accuracy,0,0.9560439560439561
+Logistic Regression,accuracy,1,0.967032967032967
+Logistic Regression,accuracy,2,1.0
+Logistic Regression,accuracy,3,0.978021978021978
+Logistic Regression,accuracy,4,0.967032967032967
+Logistic Regression,accuracy,5,0.9560439560439561
+Logistic Regression,accuracy,6,0.989010989010989
+Logistic Regression,accuracy,7,1.0
+Logistic Regression,accuracy,8,0.967032967032967
+Logistic Regression,accuracy,9,0.978021978021978
+Logistic Regression,accuracy,10,0.978021978021978
+Logistic Regression,accuracy,11,0.978021978021978
+Logistic Regression,accuracy,12,0.9560439560439561
+Logistic Regression,accuracy,13,0.978021978021978
+Logistic Regression,accuracy,14,0.989010989010989
+Logistic Regression,precision,0,1.0
+Logistic Regression,precision,1,0.9428571428571428
+Logistic Regression,precision,2,1.0
+Logistic Regression,precision,3,1.0
+Logistic Regression,precision,4,0.9428571428571428
+Logistic Regression,precision,5,0.96875
+Logistic Regression,precision,6,1.0
+Logistic Regression,precision,7,1.0
+Logistic Regression,precision,8,0.9696969696969697
+Logistic Regression,precision,9,0.9705882352941176
+Logistic Regression,precision,10,1.0
+Logistic Regression,precision,11,0.9705882352941176
+Logistic Regression,precision,12,0.9166666666666666
+Logistic Regression,precision,13,1.0
+Logistic Regression,precision,14,1.0
+Logistic Regression,recall,0,0.8823529411764706
+Logistic Regression,recall,1,0.9705882352941176
+Logistic Regression,recall,2,1.0
+Logistic Regression,recall,3,0.9411764705882353
+Logistic Regression,recall,4,0.9705882352941176
+Logistic Regression,recall,5,0.9117647058823529
+Logistic Regression,recall,6,0.9705882352941176
+Logistic Regression,recall,7,1.0
+Logistic Regression,recall,8,0.9411764705882353
+Logistic Regression,recall,9,0.9705882352941176
+Logistic Regression,recall,10,0.9411764705882353
+Logistic Regression,recall,11,0.9705882352941176
+Logistic Regression,recall,12,0.9705882352941176
+Logistic Regression,recall,13,0.9411764705882353
+Logistic Regression,recall,14,0.9705882352941176
+Logistic Regression,specificity,0,1.0
+Logistic Regression,specificity,1,0.9649122807017544
+Logistic Regression,specificity,2,1.0
+Logistic Regression,specificity,3,1.0
+Logistic Regression,specificity,4,0.9649122807017544
+Logistic Regression,specificity,5,0.9824561403508771
+Logistic Regression,specificity,6,1.0
+Logistic Regression,specificity,7,1.0
+Logistic Regression,specificity,8,0.9824561403508771
+Logistic Regression,specificity,9,0.9824561403508771
+Logistic Regression,specificity,10,1.0
+Logistic Regression,specificity,11,0.9824561403508771
+Logistic Regression,specificity,12,0.9473684210526315
+Logistic Regression,specificity,13,1.0
+Logistic Regression,specificity,14,1.0
+Logistic Regression,f1,0,0.9375
+Logistic Regression,f1,1,0.9565217391304348
+Logistic Regression,f1,2,1.0
+Logistic Regression,f1,3,0.9696969696969697
+Logistic Regression,f1,4,0.9565217391304348
+Logistic Regression,f1,5,0.9393939393939394
+Logistic Regression,f1,6,0.9850746268656716
+Logistic Regression,f1,7,1.0
+Logistic Regression,f1,8,0.9552238805970149
+Logistic Regression,f1,9,0.9705882352941176
+Logistic Regression,f1,10,0.9696969696969697
+Logistic Regression,f1,11,0.9705882352941176
+Logistic Regression,f1,12,0.9428571428571428
+Logistic Regression,f1,13,0.9696969696969697
+Logistic Regression,f1,14,0.9850746268656716
+Logistic Regression,roc_auc,0,0.9948400412796697
+Logistic Regression,roc_auc,1,0.9989680082559339
+Logistic Regression,roc_auc,2,1.0
+Logistic Regression,roc_auc,3,0.9871001031991744
+Logistic Regression,roc_auc,4,0.9979360165118679
+Logistic Regression,roc_auc,5,0.9860681114551084
+Logistic Regression,roc_auc,6,1.0
+Logistic Regression,roc_auc,7,1.0
+Logistic Regression,roc_auc,8,0.9963880288957689
+Logistic Regression,roc_auc,9,0.9963880288957689
+Logistic Regression,roc_auc,10,0.9974200206398349
+Logistic Regression,roc_auc,11,0.9979360165118679
+Logistic Regression,roc_auc,12,0.998452012383901
+Logistic Regression,roc_auc,13,0.9891640866873064
+Logistic Regression,roc_auc,14,0.9994840041279669
+Logistic Regression,pr_auc,0,0.9918993672129486
+Logistic Regression,pr_auc,1,0.9983660130718954
+Logistic Regression,pr_auc,2,1.0
+Logistic Regression,pr_auc,3,0.9875373878364905
+Logistic Regression,pr_auc,4,0.9969040247678019
+Logistic Regression,pr_auc,5,0.9847213188681045
+Logistic Regression,pr_auc,6,1.0
+Logistic Regression,pr_auc,7,1.0
+Logistic Regression,pr_auc,8,0.99427301633184
+Logistic Regression,pr_auc,9,0.9949784791965567
+Logistic Regression,pr_auc,10,0.9960389728646877
+Logistic Regression,pr_auc,11,0.9967502104180305
+Logistic Regression,pr_auc,12,0.9976152623211447
+Logistic Regression,pr_auc,13,0.9887700534759359
+Logistic Regression,pr_auc,14,0.9991596638655462
+Logistic Regression,balanced_accuracy,0,0.9411764705882353
+Logistic Regression,balanced_accuracy,1,0.967750257997936
+Logistic Regression,balanced_accuracy,2,1.0
+Logistic Regression,balanced_accuracy,3,0.9705882352941176
+Logistic Regression,balanced_accuracy,4,0.967750257997936
+Logistic Regression,balanced_accuracy,5,0.947110423116615
+Logistic Regression,balanced_accuracy,6,0.9852941176470589
+Logistic Regression,balanced_accuracy,7,1.0
+Logistic Regression,balanced_accuracy,8,0.9618163054695562
+Logistic Regression,balanced_accuracy,9,0.9765221878224974
+Logistic Regression,balanced_accuracy,10,0.9705882352941176
+Logistic Regression,balanced_accuracy,11,0.9765221878224974
+Logistic Regression,balanced_accuracy,12,0.9589783281733746
+Logistic Regression,balanced_accuracy,13,0.9705882352941176
+Logistic Regression,balanced_accuracy,14,0.9852941176470589
+LDA,accuracy,0,0.9340659340659341
+LDA,accuracy,1,0.989010989010989
+LDA,accuracy,2,0.9340659340659341
+LDA,accuracy,3,0.945054945054945
+LDA,accuracy,4,0.978021978021978
+LDA,accuracy,5,0.9560439560439561
+LDA,accuracy,6,0.945054945054945
+LDA,accuracy,7,0.978021978021978
+LDA,accuracy,8,0.9340659340659341
+LDA,accuracy,9,0.9560439560439561
+LDA,accuracy,10,0.945054945054945
+LDA,accuracy,11,0.9560439560439561
+LDA,accuracy,12,0.967032967032967
+LDA,accuracy,13,0.9120879120879121
+LDA,accuracy,14,0.967032967032967
+LDA,precision,0,1.0
+LDA,precision,1,1.0
+LDA,precision,2,1.0
+LDA,precision,3,0.967741935483871
+LDA,precision,4,1.0
+LDA,precision,5,1.0
+LDA,precision,6,0.967741935483871
+LDA,precision,7,1.0
+LDA,precision,8,1.0
+LDA,precision,9,1.0
+LDA,precision,10,0.967741935483871
+LDA,precision,11,1.0
+LDA,precision,12,1.0
+LDA,precision,13,0.9642857142857143
+LDA,precision,14,1.0
+LDA,recall,0,0.8235294117647058
+LDA,recall,1,0.9705882352941176
+LDA,recall,2,0.8235294117647058
+LDA,recall,3,0.8823529411764706
+LDA,recall,4,0.9411764705882353
+LDA,recall,5,0.8823529411764706
+LDA,recall,6,0.8823529411764706
+LDA,recall,7,0.9411764705882353
+LDA,recall,8,0.8235294117647058
+LDA,recall,9,0.8823529411764706
+LDA,recall,10,0.8823529411764706
+LDA,recall,11,0.8823529411764706
+LDA,recall,12,0.9117647058823529
+LDA,recall,13,0.7941176470588235
+LDA,recall,14,0.9117647058823529
+LDA,specificity,0,1.0
+LDA,specificity,1,1.0
+LDA,specificity,2,1.0
+LDA,specificity,3,0.9824561403508771
+LDA,specificity,4,1.0
+LDA,specificity,5,1.0
+LDA,specificity,6,0.9824561403508771
+LDA,specificity,7,1.0
+LDA,specificity,8,1.0
+LDA,specificity,9,1.0
+LDA,specificity,10,0.9824561403508771
+LDA,specificity,11,1.0
+LDA,specificity,12,1.0
+LDA,specificity,13,0.9824561403508771
+LDA,specificity,14,1.0
+LDA,f1,0,0.9032258064516129
+LDA,f1,1,0.9850746268656716
+LDA,f1,2,0.9032258064516129
+LDA,f1,3,0.9230769230769231
+LDA,f1,4,0.9696969696969697
+LDA,f1,5,0.9375
+LDA,f1,6,0.9230769230769231
+LDA,f1,7,0.9696969696969697
+LDA,f1,8,0.9032258064516129
+LDA,f1,9,0.9375
+LDA,f1,10,0.9230769230769231
+LDA,f1,11,0.9375
+LDA,f1,12,0.9538461538461539
+LDA,f1,13,0.8709677419354839
+LDA,f1,14,0.9538461538461539
+LDA,roc_auc,0,0.9943240454076367
+LDA,roc_auc,1,0.9994840041279669
+LDA,roc_auc,2,0.9886480908152735
+LDA,roc_auc,3,0.9896800825593395
+LDA,roc_auc,4,0.9969040247678018
+LDA,roc_auc,5,0.9927760577915377
+LDA,roc_auc,6,0.9932920536635707
+LDA,roc_auc,7,0.998452012383901
+LDA,roc_auc,8,0.9979360165118679
+LDA,roc_auc,9,0.9891640866873066
+LDA,roc_auc,10,0.9927760577915378
+LDA,roc_auc,11,1.0
+LDA,roc_auc,12,0.9901960784313726
+LDA,roc_auc,13,0.9917440660474717
+LDA,roc_auc,14,0.998452012383901
+LDA,pr_auc,0,0.9915677031214207
+LDA,pr_auc,1,0.9991596638655462
+LDA,pr_auc,2,0.9873504363123741
+LDA,pr_auc,3,0.9848425325044788
+LDA,pr_auc,4,0.9955882352941177
+LDA,pr_auc,5,0.9905710482286382
+LDA,pr_auc,6,0.9893977128974757
+LDA,pr_auc,7,0.9976152623211447
+LDA,pr_auc,8,0.9966853408029879
+LDA,pr_auc,9,0.9848454445880916
+LDA,pr_auc,10,0.9892981269121023
+LDA,pr_auc,11,1.0
+LDA,pr_auc,12,0.9880162974280622
+LDA,pr_auc,13,0.9871245078382069
+LDA,pr_auc,14,0.9976152623211447
+LDA,balanced_accuracy,0,0.9117647058823529
+LDA,balanced_accuracy,1,0.9852941176470589
+LDA,balanced_accuracy,2,0.9117647058823529
+LDA,balanced_accuracy,3,0.9324045407636739
+LDA,balanced_accuracy,4,0.9705882352941176
+LDA,balanced_accuracy,5,0.9411764705882353
+LDA,balanced_accuracy,6,0.9324045407636739
+LDA,balanced_accuracy,7,0.9705882352941176
+LDA,balanced_accuracy,8,0.9117647058823529
+LDA,balanced_accuracy,9,0.9411764705882353
+LDA,balanced_accuracy,10,0.9324045407636739
+LDA,balanced_accuracy,11,0.9411764705882353
+LDA,balanced_accuracy,12,0.9558823529411764
+LDA,balanced_accuracy,13,0.8882868937048503
+LDA,balanced_accuracy,14,0.9558823529411764
+KNN,accuracy,0,0.9560439560439561
+KNN,accuracy,1,0.978021978021978
+KNN,accuracy,2,0.945054945054945
+KNN,accuracy,3,0.945054945054945
+KNN,accuracy,4,0.978021978021978
+KNN,accuracy,5,0.945054945054945
+KNN,accuracy,6,0.978021978021978
+KNN,accuracy,7,1.0
+KNN,accuracy,8,0.9120879120879121
+KNN,accuracy,9,0.945054945054945
+KNN,accuracy,10,0.978021978021978
+KNN,accuracy,11,0.967032967032967
+KNN,accuracy,12,0.967032967032967
+KNN,accuracy,13,0.9340659340659341
+KNN,accuracy,14,0.967032967032967
+KNN,precision,0,1.0
+KNN,precision,1,0.9705882352941176
+KNN,precision,2,1.0
+KNN,precision,3,0.967741935483871
+KNN,precision,4,1.0
+KNN,precision,5,1.0
+KNN,precision,6,0.9705882352941176
+KNN,precision,7,1.0
+KNN,precision,8,1.0
+KNN,precision,9,1.0
+KNN,precision,10,1.0
+KNN,precision,11,1.0
+KNN,precision,12,0.9696969696969697
+KNN,precision,13,0.9666666666666667
+KNN,precision,14,1.0
+KNN,recall,0,0.8823529411764706
+KNN,recall,1,0.9705882352941176
+KNN,recall,2,0.8529411764705882
+KNN,recall,3,0.8823529411764706
+KNN,recall,4,0.9411764705882353
+KNN,recall,5,0.8529411764705882
+KNN,recall,6,0.9705882352941176
+KNN,recall,7,1.0
+KNN,recall,8,0.7647058823529411
+KNN,recall,9,0.8529411764705882
+KNN,recall,10,0.9411764705882353
+KNN,recall,11,0.9117647058823529
+KNN,recall,12,0.9411764705882353
+KNN,recall,13,0.8529411764705882
+KNN,recall,14,0.9117647058823529
+KNN,specificity,0,1.0
+KNN,specificity,1,0.9824561403508771
+KNN,specificity,2,1.0
+KNN,specificity,3,0.9824561403508771
+KNN,specificity,4,1.0
+KNN,specificity,5,1.0
+KNN,specificity,6,0.9824561403508771
+KNN,specificity,7,1.0
+KNN,specificity,8,1.0
+KNN,specificity,9,1.0
+KNN,specificity,10,1.0
+KNN,specificity,11,1.0
+KNN,specificity,12,0.9824561403508771
+KNN,specificity,13,0.9824561403508771
+KNN,specificity,14,1.0
+KNN,f1,0,0.9375
+KNN,f1,1,0.9705882352941176
+KNN,f1,2,0.9206349206349206
+KNN,f1,3,0.9230769230769231
+KNN,f1,4,0.9696969696969697
+KNN,f1,5,0.9206349206349206
+KNN,f1,6,0.9705882352941176
+KNN,f1,7,1.0
+KNN,f1,8,0.8666666666666667
+KNN,f1,9,0.9206349206349206
+KNN,f1,10,0.9696969696969697
+KNN,f1,11,0.9538461538461539
+KNN,f1,12,0.9552238805970149
+KNN,f1,13,0.90625
+KNN,f1,14,0.9538461538461539
+KNN,roc_auc,0,0.9984520123839009
+KNN,roc_auc,1,0.998968008255934
+KNN,roc_auc,2,0.9958720330237358
+KNN,roc_auc,3,0.9716202270381837
+KNN,roc_auc,4,0.9811661506707947
+KNN,roc_auc,5,0.9607843137254901
+KNN,roc_auc,6,0.9994840041279669
+KNN,roc_auc,7,1.0
+KNN,roc_auc,8,0.9865841073271413
+KNN,roc_auc,9,0.9891640866873064
+KNN,roc_auc,10,0.9969040247678018
+KNN,roc_auc,11,0.9994840041279669
+KNN,roc_auc,12,0.998968008255934
+KNN,roc_auc,13,0.9734262125902994
+KNN,roc_auc,14,0.9907120743034057
+KNN,pr_auc,0,0.9975009611687813
+KNN,pr_auc,1,0.9982946119624321
+KNN,pr_auc,2,0.9936573230690878
+KNN,pr_auc,3,0.9664919813233275
+KNN,pr_auc,4,0.9815772462831287
+KNN,pr_auc,5,0.9578754578754578
+KNN,pr_auc,6,0.9991596638655462
+KNN,pr_auc,7,1.0
+KNN,pr_auc,8,0.9820173902894491
+KNN,pr_auc,9,0.9838079415096939
+KNN,pr_auc,10,0.9953642090320292
+KNN,pr_auc,11,0.9991596638655462
+KNN,pr_auc,12,0.9982946119624321
+KNN,pr_auc,13,0.9667762487868978
+KNN,pr_auc,14,0.9876633986928105
+KNN,balanced_accuracy,0,0.9411764705882353
+KNN,balanced_accuracy,1,0.9765221878224974
+KNN,balanced_accuracy,2,0.9264705882352942
+KNN,balanced_accuracy,3,0.9324045407636739
+KNN,balanced_accuracy,4,0.9705882352941176
+KNN,balanced_accuracy,5,0.9264705882352942
+KNN,balanced_accuracy,6,0.9765221878224974
+KNN,balanced_accuracy,7,1.0
+KNN,balanced_accuracy,8,0.8823529411764706
+KNN,balanced_accuracy,9,0.9264705882352942
+KNN,balanced_accuracy,10,0.9705882352941176
+KNN,balanced_accuracy,11,0.9558823529411764
+KNN,balanced_accuracy,12,0.9618163054695562
+KNN,balanced_accuracy,13,0.9176986584107327
+KNN,balanced_accuracy,14,0.9558823529411764
+Decision Tree,accuracy,0,0.8901098901098901
+Decision Tree,accuracy,1,0.967032967032967
+Decision Tree,accuracy,2,0.9120879120879121
+Decision Tree,accuracy,3,0.9010989010989011
+Decision Tree,accuracy,4,0.9560439560439561
+Decision Tree,accuracy,5,0.9560439560439561
+Decision Tree,accuracy,6,0.9560439560439561
+Decision Tree,accuracy,7,0.9560439560439561
+Decision Tree,accuracy,8,0.9120879120879121
+Decision Tree,accuracy,9,0.8681318681318682
+Decision Tree,accuracy,10,0.9340659340659341
+Decision Tree,accuracy,11,0.9340659340659341
+Decision Tree,accuracy,12,0.9560439560439561
+Decision Tree,accuracy,13,0.8791208791208791
+Decision Tree,accuracy,14,0.9230769230769231
+Decision Tree,precision,0,0.8529411764705882
+Decision Tree,precision,1,0.9428571428571428
+Decision Tree,precision,2,0.9333333333333333
+Decision Tree,precision,3,0.8787878787878788
+Decision Tree,precision,4,0.96875
+Decision Tree,precision,5,0.96875
+Decision Tree,precision,6,0.9166666666666666
+Decision Tree,precision,7,0.9411764705882353
+Decision Tree,precision,8,0.9333333333333333
+Decision Tree,precision,9,0.8235294117647058
+Decision Tree,precision,10,0.9117647058823529
+Decision Tree,precision,11,0.9666666666666667
+Decision Tree,precision,12,0.9411764705882353
+Decision Tree,precision,13,0.8709677419354839
+Decision Tree,precision,14,0.8648648648648649
+Decision Tree,recall,0,0.8529411764705882
+Decision Tree,recall,1,0.9705882352941176
+Decision Tree,recall,2,0.8235294117647058
+Decision Tree,recall,3,0.8529411764705882
+Decision Tree,recall,4,0.9117647058823529
+Decision Tree,recall,5,0.9117647058823529
+Decision Tree,recall,6,0.9705882352941176
+Decision Tree,recall,7,0.9411764705882353
+Decision Tree,recall,8,0.8235294117647058
+Decision Tree,recall,9,0.8235294117647058
+Decision Tree,recall,10,0.9117647058823529
+Decision Tree,recall,11,0.8529411764705882
+Decision Tree,recall,12,0.9411764705882353
+Decision Tree,recall,13,0.7941176470588235
+Decision Tree,recall,14,0.9411764705882353
+Decision Tree,specificity,0,0.9122807017543859
+Decision Tree,specificity,1,0.9649122807017544
+Decision Tree,specificity,2,0.9649122807017544
+Decision Tree,specificity,3,0.9298245614035088
+Decision Tree,specificity,4,0.9824561403508771
+Decision Tree,specificity,5,0.9824561403508771
+Decision Tree,specificity,6,0.9473684210526315
+Decision Tree,specificity,7,0.9649122807017544
+Decision Tree,specificity,8,0.9649122807017544
+Decision Tree,specificity,9,0.8947368421052632
+Decision Tree,specificity,10,0.9473684210526315
+Decision Tree,specificity,11,0.9824561403508771
+Decision Tree,specificity,12,0.9649122807017544
+Decision Tree,specificity,13,0.9298245614035088
+Decision Tree,specificity,14,0.9122807017543859
+Decision Tree,f1,0,0.8529411764705882
+Decision Tree,f1,1,0.9565217391304348
+Decision Tree,f1,2,0.875
+Decision Tree,f1,3,0.8656716417910447
+Decision Tree,f1,4,0.9393939393939394
+Decision Tree,f1,5,0.9393939393939394
+Decision Tree,f1,6,0.9428571428571428
+Decision Tree,f1,7,0.9411764705882353
+Decision Tree,f1,8,0.875
+Decision Tree,f1,9,0.8235294117647058
+Decision Tree,f1,10,0.9117647058823529
+Decision Tree,f1,11,0.90625
+Decision Tree,f1,12,0.9411764705882353
+Decision Tree,f1,13,0.8307692307692308
+Decision Tree,f1,14,0.9014084507042254
+Decision Tree,roc_auc,0,0.9205366357069144
+Decision Tree,roc_auc,1,0.9976780185758514
+Decision Tree,roc_auc,2,0.936016511867905
+Decision Tree,roc_auc,3,0.9517543859649122
+Decision Tree,roc_auc,4,0.9711042311661507
+Decision Tree,roc_auc,5,0.9664602683178535
+Decision Tree,roc_auc,6,0.987358101135191
+Decision Tree,roc_auc,7,0.9958720330237356
+Decision Tree,roc_auc,8,0.9060887512899897
+Decision Tree,roc_auc,9,0.9166666666666666
+Decision Tree,roc_auc,10,0.9610423116615068
+Decision Tree,roc_auc,11,0.9757481940144479
+Decision Tree,roc_auc,12,0.9953560371517027
+Decision Tree,roc_auc,13,0.8570691434468525
+Decision Tree,roc_auc,14,0.9682662538699691
+Decision Tree,pr_auc,0,0.8172404533865334
+Decision Tree,pr_auc,1,0.9955882352941177
+Decision Tree,pr_auc,2,0.8990327125002047
+Decision Tree,pr_auc,3,0.9353451426622158
+Decision Tree,pr_auc,4,0.9442320942024451
+Decision Tree,pr_auc,5,0.9580482834159305
+Decision Tree,pr_auc,6,0.9640069996956655
+Decision Tree,pr_auc,7,0.9931372549019608
+Decision Tree,pr_auc,8,0.8864522732169791
+Decision Tree,pr_auc,9,0.860150890141206
+Decision Tree,pr_auc,10,0.9116817258577639
+Decision Tree,pr_auc,11,0.9437626890266663
+Decision Tree,pr_auc,12,0.9906784812494155
+Decision Tree,pr_auc,13,0.8534950246469657
+Decision Tree,pr_auc,14,0.9397893147262881
+Decision Tree,balanced_accuracy,0,0.882610939112487
+Decision Tree,balanced_accuracy,1,0.967750257997936
+Decision Tree,balanced_accuracy,2,0.8942208462332302
+Decision Tree,balanced_accuracy,3,0.8913828689370484
+Decision Tree,balanced_accuracy,4,0.947110423116615
+Decision Tree,balanced_accuracy,5,0.947110423116615
+Decision Tree,balanced_accuracy,6,0.9589783281733746
+Decision Tree,balanced_accuracy,7,0.9530443756449949
+Decision Tree,balanced_accuracy,8,0.8942208462332302
+Decision Tree,balanced_accuracy,9,0.8591331269349844
+Decision Tree,balanced_accuracy,10,0.9295665634674922
+Decision Tree,balanced_accuracy,11,0.9176986584107327
+Decision Tree,balanced_accuracy,12,0.9530443756449949
+Decision Tree,balanced_accuracy,13,0.8619711042311662
+Decision Tree,balanced_accuracy,14,0.9267285861713106
+Random Forest,accuracy,0,0.945054945054945
+Random Forest,accuracy,1,0.989010989010989
+Random Forest,accuracy,2,0.945054945054945
+Random Forest,accuracy,3,0.9560439560439561
+Random Forest,accuracy,4,0.967032967032967
+Random Forest,accuracy,5,0.967032967032967
+Random Forest,accuracy,6,0.967032967032967
+Random Forest,accuracy,7,0.989010989010989
+Random Forest,accuracy,8,0.9340659340659341
+Random Forest,accuracy,9,0.9120879120879121
+Random Forest,accuracy,10,0.989010989010989
+Random Forest,accuracy,11,0.945054945054945
+Random Forest,accuracy,12,0.9560439560439561
+Random Forest,accuracy,13,0.9120879120879121
+Random Forest,accuracy,14,0.967032967032967
+Random Forest,precision,0,0.967741935483871
+Random Forest,precision,1,0.9714285714285714
+Random Forest,precision,2,0.967741935483871
+Random Forest,precision,3,0.9411764705882353
+Random Forest,precision,4,0.9696969696969697
+Random Forest,precision,5,0.9696969696969697
+Random Forest,precision,6,0.9428571428571428
+Random Forest,precision,7,0.9714285714285714
+Random Forest,precision,8,1.0
+Random Forest,precision,9,0.8611111111111112
+Random Forest,precision,10,1.0
+Random Forest,precision,11,0.9393939393939394
+Random Forest,precision,12,0.9166666666666666
+Random Forest,precision,13,0.9333333333333333
+Random Forest,precision,14,0.9696969696969697
+Random Forest,recall,0,0.8823529411764706
+Random Forest,recall,1,1.0
+Random Forest,recall,2,0.8823529411764706
+Random Forest,recall,3,0.9411764705882353
+Random Forest,recall,4,0.9411764705882353
+Random Forest,recall,5,0.9411764705882353
+Random Forest,recall,6,0.9705882352941176
+Random Forest,recall,7,1.0
+Random Forest,recall,8,0.8235294117647058
+Random Forest,recall,9,0.9117647058823529
+Random Forest,recall,10,0.9705882352941176
+Random Forest,recall,11,0.9117647058823529
+Random Forest,recall,12,0.9705882352941176
+Random Forest,recall,13,0.8235294117647058
+Random Forest,recall,14,0.9411764705882353
+Random Forest,specificity,0,0.9824561403508771
+Random Forest,specificity,1,0.9824561403508771
+Random Forest,specificity,2,0.9824561403508771
+Random Forest,specificity,3,0.9649122807017544
+Random Forest,specificity,4,0.9824561403508771
+Random Forest,specificity,5,0.9824561403508771
+Random Forest,specificity,6,0.9649122807017544
+Random Forest,specificity,7,0.9824561403508771
+Random Forest,specificity,8,1.0
+Random Forest,specificity,9,0.9122807017543859
+Random Forest,specificity,10,1.0
+Random Forest,specificity,11,0.9649122807017544
+Random Forest,specificity,12,0.9473684210526315
+Random Forest,specificity,13,0.9649122807017544
+Random Forest,specificity,14,0.9824561403508771
+Random Forest,f1,0,0.9230769230769231
+Random Forest,f1,1,0.9855072463768116
+Random Forest,f1,2,0.9230769230769231
+Random Forest,f1,3,0.9411764705882353
+Random Forest,f1,4,0.9552238805970149
+Random Forest,f1,5,0.9552238805970149
+Random Forest,f1,6,0.9565217391304348
+Random Forest,f1,7,0.9855072463768116
+Random Forest,f1,8,0.9032258064516129
+Random Forest,f1,9,0.8857142857142857
+Random Forest,f1,10,0.9850746268656716
+Random Forest,f1,11,0.9253731343283582
+Random Forest,f1,12,0.9428571428571428
+Random Forest,f1,13,0.875
+Random Forest,f1,14,0.9552238805970149
+Random Forest,roc_auc,0,0.9819401444788441
+Random Forest,roc_auc,1,1.0
+Random Forest,roc_auc,2,0.9927760577915377
+Random Forest,roc_auc,3,0.9845201238390092
+Random Forest,roc_auc,4,0.9819401444788443
+Random Forest,roc_auc,5,0.9860681114551084
+Random Forest,roc_auc,6,0.998452012383901
+Random Forest,roc_auc,7,1.0
+Random Forest,roc_auc,8,0.9948400412796697
+Random Forest,roc_auc,9,0.97781217750258
+Random Forest,roc_auc,10,0.9922600619195048
+Random Forest,roc_auc,11,0.9953560371517027
+Random Forest,roc_auc,12,0.9969040247678019
+Random Forest,roc_auc,13,0.9865841073271413
+Random Forest,roc_auc,14,0.9788441692466461
+Random Forest,pr_auc,0,0.9785509869391879
+Random Forest,pr_auc,1,1.0
+Random Forest,pr_auc,2,0.9888337153043035
+Random Forest,pr_auc,3,0.9821684795505593
+Random Forest,pr_auc,4,0.9844290657439445
+Random Forest,pr_auc,5,0.9817527400147057
+Random Forest,pr_auc,6,0.9976152623211447
+Random Forest,pr_auc,7,1.0
+Random Forest,pr_auc,8,0.9921774592189817
+Random Forest,pr_auc,9,0.9730133798344841
+Random Forest,pr_auc,10,0.9909963985594237
+Random Forest,pr_auc,11,0.9925741310456072
+Random Forest,pr_auc,12,0.9951477072675396
+Random Forest,pr_auc,13,0.979185930997877
+Random Forest,pr_auc,14,0.9818016890356857
+Random Forest,balanced_accuracy,0,0.9324045407636739
+Random Forest,balanced_accuracy,1,0.9912280701754386
+Random Forest,balanced_accuracy,2,0.9324045407636739
+Random Forest,balanced_accuracy,3,0.9530443756449949
+Random Forest,balanced_accuracy,4,0.9618163054695562
+Random Forest,balanced_accuracy,5,0.9618163054695562
+Random Forest,balanced_accuracy,6,0.967750257997936
+Random Forest,balanced_accuracy,7,0.9912280701754386
+Random Forest,balanced_accuracy,8,0.9117647058823529
+Random Forest,balanced_accuracy,9,0.9120227038183695
+Random Forest,balanced_accuracy,10,0.9852941176470589
+Random Forest,balanced_accuracy,11,0.9383384932920537
+Random Forest,balanced_accuracy,12,0.9589783281733746
+Random Forest,balanced_accuracy,13,0.8942208462332302
+Random Forest,balanced_accuracy,14,0.9618163054695562
+Gaussian NB,accuracy,0,0.945054945054945
+Gaussian NB,accuracy,1,0.989010989010989
+Gaussian NB,accuracy,2,0.9120879120879121
+Gaussian NB,accuracy,3,0.9230769230769231
+Gaussian NB,accuracy,4,0.9340659340659341
+Gaussian NB,accuracy,5,0.9230769230769231
+Gaussian NB,accuracy,6,0.9560439560439561
+Gaussian NB,accuracy,7,0.978021978021978
+Gaussian NB,accuracy,8,0.8901098901098901
+Gaussian NB,accuracy,9,0.9340659340659341
+Gaussian NB,accuracy,10,0.978021978021978
+Gaussian NB,accuracy,11,0.9230769230769231
+Gaussian NB,accuracy,12,0.945054945054945
+Gaussian NB,accuracy,13,0.9120879120879121
+Gaussian NB,accuracy,14,0.945054945054945
+Gaussian NB,precision,0,1.0
+Gaussian NB,precision,1,0.9714285714285714
+Gaussian NB,precision,2,0.8823529411764706
+Gaussian NB,precision,3,0.9354838709677419
+Gaussian NB,precision,4,0.9117647058823529
+Gaussian NB,precision,5,0.9354838709677419
+Gaussian NB,precision,6,0.9166666666666666
+Gaussian NB,precision,7,0.9444444444444444
+Gaussian NB,precision,8,0.9615384615384616
+Gaussian NB,precision,9,0.9117647058823529
+Gaussian NB,precision,10,0.9705882352941176
+Gaussian NB,precision,11,0.9090909090909091
+Gaussian NB,precision,12,0.9142857142857143
+Gaussian NB,precision,13,0.9642857142857143
+Gaussian NB,precision,14,0.967741935483871
+Gaussian NB,recall,0,0.8529411764705882
+Gaussian NB,recall,1,1.0
+Gaussian NB,recall,2,0.8823529411764706
+Gaussian NB,recall,3,0.8529411764705882
+Gaussian NB,recall,4,0.9117647058823529
+Gaussian NB,recall,5,0.8529411764705882
+Gaussian NB,recall,6,0.9705882352941176
+Gaussian NB,recall,7,1.0
+Gaussian NB,recall,8,0.7352941176470589
+Gaussian NB,recall,9,0.9117647058823529
+Gaussian NB,recall,10,0.9705882352941176
+Gaussian NB,recall,11,0.8823529411764706
+Gaussian NB,recall,12,0.9411764705882353
+Gaussian NB,recall,13,0.7941176470588235
+Gaussian NB,recall,14,0.8823529411764706
+Gaussian NB,specificity,0,1.0
+Gaussian NB,specificity,1,0.9824561403508771
+Gaussian NB,specificity,2,0.9298245614035088
+Gaussian NB,specificity,3,0.9649122807017544
+Gaussian NB,specificity,4,0.9473684210526315
+Gaussian NB,specificity,5,0.9649122807017544
+Gaussian NB,specificity,6,0.9473684210526315
+Gaussian NB,specificity,7,0.9649122807017544
+Gaussian NB,specificity,8,0.9824561403508771
+Gaussian NB,specificity,9,0.9473684210526315
+Gaussian NB,specificity,10,0.9824561403508771
+Gaussian NB,specificity,11,0.9473684210526315
+Gaussian NB,specificity,12,0.9473684210526315
+Gaussian NB,specificity,13,0.9824561403508771
+Gaussian NB,specificity,14,0.9824561403508771
+Gaussian NB,f1,0,0.9206349206349206
+Gaussian NB,f1,1,0.9855072463768116
+Gaussian NB,f1,2,0.8823529411764706
+Gaussian NB,f1,3,0.8923076923076924
+Gaussian NB,f1,4,0.9117647058823529
+Gaussian NB,f1,5,0.8923076923076924
+Gaussian NB,f1,6,0.9428571428571428
+Gaussian NB,f1,7,0.9714285714285714
+Gaussian NB,f1,8,0.8333333333333334
+Gaussian NB,f1,9,0.9117647058823529
+Gaussian NB,f1,10,0.9705882352941176
+Gaussian NB,f1,11,0.8955223880597015
+Gaussian NB,f1,12,0.927536231884058
+Gaussian NB,f1,13,0.8709677419354839
+Gaussian NB,f1,14,0.9230769230769231
+Gaussian NB,roc_auc,0,0.9927760577915377
+Gaussian NB,roc_auc,1,1.0
+Gaussian NB,roc_auc,2,0.9798761609907121
+Gaussian NB,roc_auc,3,0.9824561403508771
+Gaussian NB,roc_auc,4,0.9840041279669762
+Gaussian NB,roc_auc,5,0.9829721362229102
+Gaussian NB,roc_auc,6,0.9953560371517027
+Gaussian NB,roc_auc,7,0.9969040247678018
+Gaussian NB,roc_auc,8,0.9865841073271414
+Gaussian NB,roc_auc,9,0.9809081527347782
+Gaussian NB,roc_auc,10,0.9932920536635707
+Gaussian NB,roc_auc,11,0.9917440660474716
+Gaussian NB,roc_auc,12,0.9917440660474717
+Gaussian NB,roc_auc,13,0.9814241486068112
+Gaussian NB,roc_auc,14,0.9809081527347782
+Gaussian NB,pr_auc,0,0.9901350223690188
+Gaussian NB,pr_auc,1,1.0
+Gaussian NB,pr_auc,2,0.9667412927980262
+Gaussian NB,pr_auc,3,0.9749661531918624
+Gaussian NB,pr_auc,4,0.9781330969084518
+Gaussian NB,pr_auc,5,0.9734889103599622
+Gaussian NB,pr_auc,6,0.9935327072005273
+Gaussian NB,pr_auc,7,0.9949552369967595
+Gaussian NB,pr_auc,8,0.9762720189260209
+Gaussian NB,pr_auc,9,0.974748796843712
+Gaussian NB,pr_auc,10,0.9918648310387985
+Gaussian NB,pr_auc,11,0.9867329576700042
+Gaussian NB,pr_auc,12,0.986413736277039
+Gaussian NB,pr_auc,13,0.9696611738086804
+Gaussian NB,pr_auc,14,0.9775686818648304
+Gaussian NB,balanced_accuracy,0,0.9264705882352942
+Gaussian NB,balanced_accuracy,1,0.9912280701754386
+Gaussian NB,balanced_accuracy,2,0.9060887512899897
+Gaussian NB,balanced_accuracy,3,0.9089267285861713
+Gaussian NB,balanced_accuracy,4,0.9295665634674922
+Gaussian NB,balanced_accuracy,5,0.9089267285861713
+Gaussian NB,balanced_accuracy,6,0.9589783281733746
+Gaussian NB,balanced_accuracy,7,0.9824561403508771
+Gaussian NB,balanced_accuracy,8,0.858875128998968
+Gaussian NB,balanced_accuracy,9,0.9295665634674922
+Gaussian NB,balanced_accuracy,10,0.9765221878224974
+Gaussian NB,balanced_accuracy,11,0.914860681114551
+Gaussian NB,balanced_accuracy,12,0.9442724458204335
+Gaussian NB,balanced_accuracy,13,0.8882868937048503
+Gaussian NB,balanced_accuracy,14,0.9324045407636739
+SVM (linear),accuracy,0,0.9560439560439561
+SVM (linear),accuracy,1,0.967032967032967
+SVM (linear),accuracy,2,0.967032967032967
+SVM (linear),accuracy,3,0.978021978021978
+SVM (linear),accuracy,4,0.967032967032967
+SVM (linear),accuracy,5,0.967032967032967
+SVM (linear),accuracy,6,0.989010989010989
+SVM (linear),accuracy,7,1.0
+SVM (linear),accuracy,8,0.978021978021978
+SVM (linear),accuracy,9,0.967032967032967
+SVM (linear),accuracy,10,0.967032967032967
+SVM (linear),accuracy,11,0.978021978021978
+SVM (linear),accuracy,12,0.967032967032967
+SVM (linear),accuracy,13,0.978021978021978
+SVM (linear),accuracy,14,0.978021978021978
+SVM (linear),precision,0,1.0
+SVM (linear),precision,1,0.9428571428571428
+SVM (linear),precision,2,1.0
+SVM (linear),precision,3,1.0
+SVM (linear),precision,4,0.9428571428571428
+SVM (linear),precision,5,0.9696969696969697
+SVM (linear),precision,6,1.0
+SVM (linear),precision,7,1.0
+SVM (linear),precision,8,1.0
+SVM (linear),precision,9,1.0
+SVM (linear),precision,10,0.9696969696969697
+SVM (linear),precision,11,1.0
+SVM (linear),precision,12,0.9428571428571428
+SVM (linear),precision,13,1.0
+SVM (linear),precision,14,1.0
+SVM (linear),recall,0,0.8823529411764706
+SVM (linear),recall,1,0.9705882352941176
+SVM (linear),recall,2,0.9117647058823529
+SVM (linear),recall,3,0.9411764705882353
+SVM (linear),recall,4,0.9705882352941176
+SVM (linear),recall,5,0.9411764705882353
+SVM (linear),recall,6,0.9705882352941176
+SVM (linear),recall,7,1.0
+SVM (linear),recall,8,0.9411764705882353
+SVM (linear),recall,9,0.9117647058823529
+SVM (linear),recall,10,0.9411764705882353
+SVM (linear),recall,11,0.9411764705882353
+SVM (linear),recall,12,0.9705882352941176
+SVM (linear),recall,13,0.9411764705882353
+SVM (linear),recall,14,0.9411764705882353
+SVM (linear),specificity,0,1.0
+SVM (linear),specificity,1,0.9649122807017544
+SVM (linear),specificity,2,1.0
+SVM (linear),specificity,3,1.0
+SVM (linear),specificity,4,0.9649122807017544
+SVM (linear),specificity,5,0.9824561403508771
+SVM (linear),specificity,6,1.0
+SVM (linear),specificity,7,1.0
+SVM (linear),specificity,8,1.0
+SVM (linear),specificity,9,1.0
+SVM (linear),specificity,10,0.9824561403508771
+SVM (linear),specificity,11,1.0
+SVM (linear),specificity,12,0.9649122807017544
+SVM (linear),specificity,13,1.0
+SVM (linear),specificity,14,1.0
+SVM (linear),f1,0,0.9375
+SVM (linear),f1,1,0.9565217391304348
+SVM (linear),f1,2,0.9538461538461539
+SVM (linear),f1,3,0.9696969696969697
+SVM (linear),f1,4,0.9565217391304348
+SVM (linear),f1,5,0.9552238805970149
+SVM (linear),f1,6,0.9850746268656716
+SVM (linear),f1,7,1.0
+SVM (linear),f1,8,0.9696969696969697
+SVM (linear),f1,9,0.9538461538461539
+SVM (linear),f1,10,0.9552238805970149
+SVM (linear),f1,11,0.9696969696969697
+SVM (linear),f1,12,0.9565217391304348
+SVM (linear),f1,13,0.9696969696969697
+SVM (linear),f1,14,0.9696969696969697
+SVM (linear),roc_auc,0,0.9953560371517027
+SVM (linear),roc_auc,1,0.9984520123839009
+SVM (linear),roc_auc,2,0.9979360165118679
+SVM (linear),roc_auc,3,0.9824561403508771
+SVM (linear),roc_auc,4,0.9979360165118679
+SVM (linear),roc_auc,5,0.9840041279669762
+SVM (linear),roc_auc,6,1.0
+SVM (linear),roc_auc,7,1.0
+SVM (linear),roc_auc,8,0.9974200206398349
+SVM (linear),roc_auc,9,0.9907120743034056
+SVM (linear),roc_auc,10,0.9969040247678018
+SVM (linear),roc_auc,11,0.9979360165118679
+SVM (linear),roc_auc,12,0.9974200206398349
+SVM (linear),roc_auc,13,0.9845201238390093
+SVM (linear),roc_auc,14,0.9994840041279669
+SVM (linear),pr_auc,0,0.9928184848600073
+SVM (linear),pr_auc,1,0.9975009611687812
+SVM (linear),pr_auc,2,0.9969040247678019
+SVM (linear),pr_auc,3,0.9846485565253318
+SVM (linear),pr_auc,4,0.9969040247678019
+SVM (linear),pr_auc,5,0.9841453296861268
+SVM (linear),pr_auc,6,1.0
+SVM (linear),pr_auc,7,1.0
+SVM (linear),pr_auc,8,0.9959345900522372
+SVM (linear),pr_auc,9,0.9869245305777813
+SVM (linear),pr_auc,10,0.9951477072675398
+SVM (linear),pr_auc,11,0.9969040247678019
+SVM (linear),pr_auc,12,0.9959345900522372
+SVM (linear),pr_auc,13,0.9855961992640193
+SVM (linear),pr_auc,14,0.9991596638655462
+SVM (linear),balanced_accuracy,0,0.9411764705882353
+SVM (linear),balanced_accuracy,1,0.967750257997936
+SVM (linear),balanced_accuracy,2,0.9558823529411764
+SVM (linear),balanced_accuracy,3,0.9705882352941176
+SVM (linear),balanced_accuracy,4,0.967750257997936
+SVM (linear),balanced_accuracy,5,0.9618163054695562
+SVM (linear),balanced_accuracy,6,0.9852941176470589
+SVM (linear),balanced_accuracy,7,1.0
+SVM (linear),balanced_accuracy,8,0.9705882352941176
+SVM (linear),balanced_accuracy,9,0.9558823529411764
+SVM (linear),balanced_accuracy,10,0.9618163054695562
+SVM (linear),balanced_accuracy,11,0.9705882352941176
+SVM (linear),balanced_accuracy,12,0.967750257997936
+SVM (linear),balanced_accuracy,13,0.9705882352941176
+SVM (linear),balanced_accuracy,14,0.9705882352941176
+SVM (RBF),accuracy,0,0.9560439560439561
+SVM (RBF),accuracy,1,0.978021978021978
+SVM (RBF),accuracy,2,0.978021978021978
+SVM (RBF),accuracy,3,0.978021978021978
+SVM (RBF),accuracy,4,0.989010989010989
+SVM (RBF),accuracy,5,0.967032967032967
+SVM (RBF),accuracy,6,0.989010989010989
+SVM (RBF),accuracy,7,0.978021978021978
+SVM (RBF),accuracy,8,0.978021978021978
+SVM (RBF),accuracy,9,0.967032967032967
+SVM (RBF),accuracy,10,0.967032967032967
+SVM (RBF),accuracy,11,0.978021978021978
+SVM (RBF),accuracy,12,0.978021978021978
+SVM (RBF),accuracy,13,0.978021978021978
+SVM (RBF),accuracy,14,0.967032967032967
+SVM (RBF),precision,0,1.0
+SVM (RBF),precision,1,0.9444444444444444
+SVM (RBF),precision,2,0.9705882352941176
+SVM (RBF),precision,3,1.0
+SVM (RBF),precision,4,1.0
+SVM (RBF),precision,5,0.9696969696969697
+SVM (RBF),precision,6,1.0
+SVM (RBF),precision,7,0.9444444444444444
+SVM (RBF),precision,8,1.0
+SVM (RBF),precision,9,1.0
+SVM (RBF),precision,10,0.9696969696969697
+SVM (RBF),precision,11,1.0
+SVM (RBF),precision,12,0.9705882352941176
+SVM (RBF),precision,13,1.0
+SVM (RBF),precision,14,0.9696969696969697
+SVM (RBF),recall,0,0.8823529411764706
+SVM (RBF),recall,1,1.0
+SVM (RBF),recall,2,0.9705882352941176
+SVM (RBF),recall,3,0.9411764705882353
+SVM (RBF),recall,4,0.9705882352941176
+SVM (RBF),recall,5,0.9411764705882353
+SVM (RBF),recall,6,0.9705882352941176
+SVM (RBF),recall,7,1.0
+SVM (RBF),recall,8,0.9411764705882353
+SVM (RBF),recall,9,0.9117647058823529
+SVM (RBF),recall,10,0.9411764705882353
+SVM (RBF),recall,11,0.9411764705882353
+SVM (RBF),recall,12,0.9705882352941176
+SVM (RBF),recall,13,0.9411764705882353
+SVM (RBF),recall,14,0.9411764705882353
+SVM (RBF),specificity,0,1.0
+SVM (RBF),specificity,1,0.9649122807017544
+SVM (RBF),specificity,2,0.9824561403508771
+SVM (RBF),specificity,3,1.0
+SVM (RBF),specificity,4,1.0
+SVM (RBF),specificity,5,0.9824561403508771
+SVM (RBF),specificity,6,1.0
+SVM (RBF),specificity,7,0.9649122807017544
+SVM (RBF),specificity,8,1.0
+SVM (RBF),specificity,9,1.0
+SVM (RBF),specificity,10,0.9824561403508771
+SVM (RBF),specificity,11,1.0
+SVM (RBF),specificity,12,0.9824561403508771
+SVM (RBF),specificity,13,1.0
+SVM (RBF),specificity,14,0.9824561403508771
+SVM (RBF),f1,0,0.9375
+SVM (RBF),f1,1,0.9714285714285714
+SVM (RBF),f1,2,0.9705882352941176
+SVM (RBF),f1,3,0.9696969696969697
+SVM (RBF),f1,4,0.9850746268656716
+SVM (RBF),f1,5,0.9552238805970149
+SVM (RBF),f1,6,0.9850746268656716
+SVM (RBF),f1,7,0.9714285714285714
+SVM (RBF),f1,8,0.9696969696969697
+SVM (RBF),f1,9,0.9538461538461539
+SVM (RBF),f1,10,0.9552238805970149
+SVM (RBF),f1,11,0.9696969696969697
+SVM (RBF),f1,12,0.9705882352941176
+SVM (RBF),f1,13,0.9696969696969697
+SVM (RBF),f1,14,0.9552238805970149
+SVM (RBF),roc_auc,0,0.9963880288957688
+SVM (RBF),roc_auc,1,0.9994840041279669
+SVM (RBF),roc_auc,2,0.998452012383901
+SVM (RBF),roc_auc,3,0.9850361197110423
+SVM (RBF),roc_auc,4,0.9974200206398348
+SVM (RBF),roc_auc,5,0.9865841073271414
+SVM (RBF),roc_auc,6,1.0
+SVM (RBF),roc_auc,7,1.0
+SVM (RBF),roc_auc,8,0.998452012383901
+SVM (RBF),roc_auc,9,0.9948400412796697
+SVM (RBF),roc_auc,10,0.9974200206398349
+SVM (RBF),roc_auc,11,0.998452012383901
+SVM (RBF),roc_auc,12,0.998452012383901
+SVM (RBF),roc_auc,13,0.9860681114551084
+SVM (RBF),roc_auc,14,0.9984520123839009
+SVM (RBF),pr_auc,0,0.9943320869017463
+SVM (RBF),pr_auc,1,0.9991596638655462
+SVM (RBF),pr_auc,2,0.9976152623211447
+SVM (RBF),pr_auc,3,0.9864612511671335
+SVM (RBF),pr_auc,4,0.9962292609351433
+SVM (RBF),pr_auc,5,0.986148942335555
+SVM (RBF),pr_auc,6,1.0
+SVM (RBF),pr_auc,7,1.0
+SVM (RBF),pr_auc,8,0.9976152623211447
+SVM (RBF),pr_auc,9,0.9919320359722836
+SVM (RBF),pr_auc,10,0.9958589448208826
+SVM (RBF),pr_auc,11,0.9976152623211447
+SVM (RBF),pr_auc,12,0.9976152623211447
+SVM (RBF),pr_auc,13,0.9863898500576701
+SVM (RBF),pr_auc,14,0.9975009611687812
+SVM (RBF),balanced_accuracy,0,0.9411764705882353
+SVM (RBF),balanced_accuracy,1,0.9824561403508771
+SVM (RBF),balanced_accuracy,2,0.9765221878224974
+SVM (RBF),balanced_accuracy,3,0.9705882352941176
+SVM (RBF),balanced_accuracy,4,0.9852941176470589
+SVM (RBF),balanced_accuracy,5,0.9618163054695562
+SVM (RBF),balanced_accuracy,6,0.9852941176470589
+SVM (RBF),balanced_accuracy,7,0.9824561403508771
+SVM (RBF),balanced_accuracy,8,0.9705882352941176
+SVM (RBF),balanced_accuracy,9,0.9558823529411764
+SVM (RBF),balanced_accuracy,10,0.9618163054695562
+SVM (RBF),balanced_accuracy,11,0.9705882352941176
+SVM (RBF),balanced_accuracy,12,0.9765221878224974
+SVM (RBF),balanced_accuracy,13,0.9705882352941176
+SVM (RBF),balanced_accuracy,14,0.9618163054695562
+Neural Net (MLP),accuracy,0,0.9560439560439561
+Neural Net (MLP),accuracy,1,0.967032967032967
+Neural Net (MLP),accuracy,2,0.989010989010989
+Neural Net (MLP),accuracy,3,0.978021978021978
+Neural Net (MLP),accuracy,4,0.989010989010989
+Neural Net (MLP),accuracy,5,0.945054945054945
+Neural Net (MLP),accuracy,6,0.989010989010989
+Neural Net (MLP),accuracy,7,1.0
+Neural Net (MLP),accuracy,8,0.9560439560439561
+Neural Net (MLP),accuracy,9,0.967032967032967
+Neural Net (MLP),accuracy,10,0.967032967032967
+Neural Net (MLP),accuracy,11,0.978021978021978
+Neural Net (MLP),accuracy,12,0.978021978021978
+Neural Net (MLP),accuracy,13,0.967032967032967
+Neural Net (MLP),accuracy,14,0.989010989010989
+Neural Net (MLP),precision,0,0.96875
+Neural Net (MLP),precision,1,0.9428571428571428
+Neural Net (MLP),precision,2,0.9714285714285714
+Neural Net (MLP),precision,3,1.0
+Neural Net (MLP),precision,4,1.0
+Neural Net (MLP),precision,5,0.9393939393939394
+Neural Net (MLP),precision,6,1.0
+Neural Net (MLP),precision,7,1.0
+Neural Net (MLP),precision,8,0.96875
+Neural Net (MLP),precision,9,0.9428571428571428
+Neural Net (MLP),precision,10,0.9696969696969697
+Neural Net (MLP),precision,11,0.9705882352941176
+Neural Net (MLP),precision,12,0.9705882352941176
+Neural Net (MLP),precision,13,0.9696969696969697
+Neural Net (MLP),precision,14,1.0
+Neural Net (MLP),recall,0,0.9117647058823529
+Neural Net (MLP),recall,1,0.9705882352941176
+Neural Net (MLP),recall,2,1.0
+Neural Net (MLP),recall,3,0.9411764705882353
+Neural Net (MLP),recall,4,0.9705882352941176
+Neural Net (MLP),recall,5,0.9117647058823529
+Neural Net (MLP),recall,6,0.9705882352941176
+Neural Net (MLP),recall,7,1.0
+Neural Net (MLP),recall,8,0.9117647058823529
+Neural Net (MLP),recall,9,0.9705882352941176
+Neural Net (MLP),recall,10,0.9411764705882353
+Neural Net (MLP),recall,11,0.9705882352941176
+Neural Net (MLP),recall,12,0.9705882352941176
+Neural Net (MLP),recall,13,0.9411764705882353
+Neural Net (MLP),recall,14,0.9705882352941176
+Neural Net (MLP),specificity,0,0.9824561403508771
+Neural Net (MLP),specificity,1,0.9649122807017544
+Neural Net (MLP),specificity,2,0.9824561403508771
+Neural Net (MLP),specificity,3,1.0
+Neural Net (MLP),specificity,4,1.0
+Neural Net (MLP),specificity,5,0.9649122807017544
+Neural Net (MLP),specificity,6,1.0
+Neural Net (MLP),specificity,7,1.0
+Neural Net (MLP),specificity,8,0.9824561403508771
+Neural Net (MLP),specificity,9,0.9649122807017544
+Neural Net (MLP),specificity,10,0.9824561403508771
+Neural Net (MLP),specificity,11,0.9824561403508771
+Neural Net (MLP),specificity,12,0.9824561403508771
+Neural Net (MLP),specificity,13,0.9824561403508771
+Neural Net (MLP),specificity,14,1.0
+Neural Net (MLP),f1,0,0.9393939393939394
+Neural Net (MLP),f1,1,0.9565217391304348
+Neural Net (MLP),f1,2,0.9855072463768116
+Neural Net (MLP),f1,3,0.9696969696969697
+Neural Net (MLP),f1,4,0.9850746268656716
+Neural Net (MLP),f1,5,0.9253731343283582
+Neural Net (MLP),f1,6,0.9850746268656716
+Neural Net (MLP),f1,7,1.0
+Neural Net (MLP),f1,8,0.9393939393939394
+Neural Net (MLP),f1,9,0.9565217391304348
+Neural Net (MLP),f1,10,0.9552238805970149
+Neural Net (MLP),f1,11,0.9705882352941176
+Neural Net (MLP),f1,12,0.9705882352941176
+Neural Net (MLP),f1,13,0.9552238805970149
+Neural Net (MLP),f1,14,0.9850746268656716
+Neural Net (MLP),roc_auc,0,0.9953560371517027
+Neural Net (MLP),roc_auc,1,0.9989680082559339
+Neural Net (MLP),roc_auc,2,1.0
+Neural Net (MLP),roc_auc,3,0.9829721362229101
+Neural Net (MLP),roc_auc,4,0.9963880288957689
+Neural Net (MLP),roc_auc,5,0.9855521155830754
+Neural Net (MLP),roc_auc,6,1.0
+Neural Net (MLP),roc_auc,7,1.0
+Neural Net (MLP),roc_auc,8,0.9974200206398349
+Neural Net (MLP),roc_auc,9,0.9958720330237358
+Neural Net (MLP),roc_auc,10,0.9969040247678018
+Neural Net (MLP),roc_auc,11,0.998452012383901
+Neural Net (MLP),roc_auc,12,0.998452012383901
+Neural Net (MLP),roc_auc,13,0.9860681114551084
+Neural Net (MLP),roc_auc,14,0.9963880288957689
+Neural Net (MLP),pr_auc,0,0.992738205422029
+Neural Net (MLP),pr_auc,1,0.9983660130718954
+Neural Net (MLP),pr_auc,2,1.0
+Neural Net (MLP),pr_auc,3,0.9848746985425186
+Neural Net (MLP),pr_auc,4,0.9949784791965567
+Neural Net (MLP),pr_auc,5,0.9839510107448552
+Neural Net (MLP),pr_auc,6,1.0
+Neural Net (MLP),pr_auc,7,1.0
+Neural Net (MLP),pr_auc,8,0.9956905779245745
+Neural Net (MLP),pr_auc,9,0.9941134272934425
+Neural Net (MLP),pr_auc,10,0.9951477072675398
+Neural Net (MLP),pr_auc,11,0.9976152623211447
+Neural Net (MLP),pr_auc,12,0.9976152623211447
+Neural Net (MLP),pr_auc,13,0.9851541794571416
+Neural Net (MLP),pr_auc,14,0.9949784791965567
+Neural Net (MLP),balanced_accuracy,0,0.947110423116615
+Neural Net (MLP),balanced_accuracy,1,0.967750257997936
+Neural Net (MLP),balanced_accuracy,2,0.9912280701754386
+Neural Net (MLP),balanced_accuracy,3,0.9705882352941176
+Neural Net (MLP),balanced_accuracy,4,0.9852941176470589
+Neural Net (MLP),balanced_accuracy,5,0.9383384932920537
+Neural Net (MLP),balanced_accuracy,6,0.9852941176470589
+Neural Net (MLP),balanced_accuracy,7,1.0
+Neural Net (MLP),balanced_accuracy,8,0.947110423116615
+Neural Net (MLP),balanced_accuracy,9,0.967750257997936
+Neural Net (MLP),balanced_accuracy,10,0.9618163054695562
+Neural Net (MLP),balanced_accuracy,11,0.9765221878224974
+Neural Net (MLP),balanced_accuracy,12,0.9765221878224974
+Neural Net (MLP),balanced_accuracy,13,0.9618163054695562
+Neural Net (MLP),balanced_accuracy,14,0.9852941176470589
+Gradient Boosting,accuracy,0,0.9560439560439561
+Gradient Boosting,accuracy,1,0.978021978021978
+Gradient Boosting,accuracy,2,0.9560439560439561
+Gradient Boosting,accuracy,3,0.967032967032967
+Gradient Boosting,accuracy,4,0.978021978021978
+Gradient Boosting,accuracy,5,0.967032967032967
+Gradient Boosting,accuracy,6,0.978021978021978
+Gradient Boosting,accuracy,7,0.978021978021978
+Gradient Boosting,accuracy,8,0.9340659340659341
+Gradient Boosting,accuracy,9,0.9340659340659341
+Gradient Boosting,accuracy,10,0.978021978021978
+Gradient Boosting,accuracy,11,0.967032967032967
+Gradient Boosting,accuracy,12,0.967032967032967
+Gradient Boosting,accuracy,13,0.9340659340659341
+Gradient Boosting,accuracy,14,0.945054945054945
+Gradient Boosting,precision,0,0.96875
+Gradient Boosting,precision,1,0.9705882352941176
+Gradient Boosting,precision,2,0.9411764705882353
+Gradient Boosting,precision,3,0.9428571428571428
+Gradient Boosting,precision,4,1.0
+Gradient Boosting,precision,5,0.9696969696969697
+Gradient Boosting,precision,6,0.9705882352941176
+Gradient Boosting,precision,7,0.9444444444444444
+Gradient Boosting,precision,8,1.0
+Gradient Boosting,precision,9,0.9117647058823529
+Gradient Boosting,precision,10,1.0
+Gradient Boosting,precision,11,0.9428571428571428
+Gradient Boosting,precision,12,0.918918918918919
+Gradient Boosting,precision,13,0.9375
+Gradient Boosting,precision,14,0.967741935483871
+Gradient Boosting,recall,0,0.9117647058823529
+Gradient Boosting,recall,1,0.9705882352941176
+Gradient Boosting,recall,2,0.9411764705882353
+Gradient Boosting,recall,3,0.9705882352941176
+Gradient Boosting,recall,4,0.9411764705882353
+Gradient Boosting,recall,5,0.9411764705882353
+Gradient Boosting,recall,6,0.9705882352941176
+Gradient Boosting,recall,7,1.0
+Gradient Boosting,recall,8,0.8235294117647058
+Gradient Boosting,recall,9,0.9117647058823529
+Gradient Boosting,recall,10,0.9411764705882353
+Gradient Boosting,recall,11,0.9705882352941176
+Gradient Boosting,recall,12,1.0
+Gradient Boosting,recall,13,0.8823529411764706
+Gradient Boosting,recall,14,0.8823529411764706
+Gradient Boosting,specificity,0,0.9824561403508771
+Gradient Boosting,specificity,1,0.9824561403508771
+Gradient Boosting,specificity,2,0.9649122807017544
+Gradient Boosting,specificity,3,0.9649122807017544
+Gradient Boosting,specificity,4,1.0
+Gradient Boosting,specificity,5,0.9824561403508771
+Gradient Boosting,specificity,6,0.9824561403508771
+Gradient Boosting,specificity,7,0.9649122807017544
+Gradient Boosting,specificity,8,1.0
+Gradient Boosting,specificity,9,0.9473684210526315
+Gradient Boosting,specificity,10,1.0
+Gradient Boosting,specificity,11,0.9649122807017544
+Gradient Boosting,specificity,12,0.9473684210526315
+Gradient Boosting,specificity,13,0.9649122807017544
+Gradient Boosting,specificity,14,0.9824561403508771
+Gradient Boosting,f1,0,0.9393939393939394
+Gradient Boosting,f1,1,0.9705882352941176
+Gradient Boosting,f1,2,0.9411764705882353
+Gradient Boosting,f1,3,0.9565217391304348
+Gradient Boosting,f1,4,0.9696969696969697
+Gradient Boosting,f1,5,0.9552238805970149
+Gradient Boosting,f1,6,0.9705882352941176
+Gradient Boosting,f1,7,0.9714285714285714
+Gradient Boosting,f1,8,0.9032258064516129
+Gradient Boosting,f1,9,0.9117647058823529
+Gradient Boosting,f1,10,0.9696969696969697
+Gradient Boosting,f1,11,0.9565217391304348
+Gradient Boosting,f1,12,0.9577464788732394
+Gradient Boosting,f1,13,0.9090909090909091
+Gradient Boosting,f1,14,0.9230769230769231
+Gradient Boosting,roc_auc,0,0.9938080495356038
+Gradient Boosting,roc_auc,1,0.9994840041279669
+Gradient Boosting,roc_auc,2,0.9969040247678019
+Gradient Boosting,roc_auc,3,0.9840041279669763
+Gradient Boosting,roc_auc,4,0.9943240454076369
+Gradient Boosting,roc_auc,5,0.9809081527347782
+Gradient Boosting,roc_auc,6,0.998452012383901
+Gradient Boosting,roc_auc,7,0.9984520123839009
+Gradient Boosting,roc_auc,8,0.9948400412796699
+Gradient Boosting,roc_auc,9,0.9855521155830753
+Gradient Boosting,roc_auc,10,0.9963880288957689
+Gradient Boosting,roc_auc,11,0.9974200206398349
+Gradient Boosting,roc_auc,12,0.9989680082559339
+Gradient Boosting,roc_auc,13,0.980908152734778
+Gradient Boosting,roc_auc,14,0.9871001031991744
+Gradient Boosting,pr_auc,0,0.9915591905211282
+Gradient Boosting,pr_auc,1,0.9991596638655462
+Gradient Boosting,pr_auc,2,0.9951642819289879
+Gradient Boosting,pr_auc,3,0.9835709018419325
+Gradient Boosting,pr_auc,4,0.9928104575163399
+Gradient Boosting,pr_auc,5,0.977997866723081
+Gradient Boosting,pr_auc,6,0.9976152623211447
+Gradient Boosting,pr_auc,7,0.997403346365284
+Gradient Boosting,pr_auc,8,0.9923030440492356
+Gradient Boosting,pr_auc,9,0.9801480537078343
+Gradient Boosting,pr_auc,10,0.9949784791965567
+Gradient Boosting,pr_auc,11,0.9956905779245745
+Gradient Boosting,pr_auc,12,0.9982946119624321
+Gradient Boosting,pr_auc,13,0.9761694463971071
+Gradient Boosting,pr_auc,14,0.9820125873654363
+Gradient Boosting,balanced_accuracy,0,0.947110423116615
+Gradient Boosting,balanced_accuracy,1,0.9765221878224974
+Gradient Boosting,balanced_accuracy,2,0.9530443756449949
+Gradient Boosting,balanced_accuracy,3,0.967750257997936
+Gradient Boosting,balanced_accuracy,4,0.9705882352941176
+Gradient Boosting,balanced_accuracy,5,0.9618163054695562
+Gradient Boosting,balanced_accuracy,6,0.9765221878224974
+Gradient Boosting,balanced_accuracy,7,0.9824561403508771
+Gradient Boosting,balanced_accuracy,8,0.9117647058823529
+Gradient Boosting,balanced_accuracy,9,0.9295665634674922
+Gradient Boosting,balanced_accuracy,10,0.9705882352941176
+Gradient Boosting,balanced_accuracy,11,0.967750257997936
+Gradient Boosting,balanced_accuracy,12,0.9736842105263157
+Gradient Boosting,balanced_accuracy,13,0.9236326109391124
+Gradient Boosting,balanced_accuracy,14,0.9324045407636739

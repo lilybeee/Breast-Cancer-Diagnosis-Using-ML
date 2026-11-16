@@ -1,0 +1,20 @@
+{
+  "seeds": [
+    42,
+    7,
+    2024
+  ],
+  "quick_run": false,
+  "sklearn": "1.6.1",
+  "run_date": "2026-11-15",
+  "n_train": 1546,
+  "n_test": 326,
+  "patients_train": 602,
+  "patients_test": 151,
+  "prevalence_train": 0.351875808538163,
+  "prevalence_test": 0.39570552147239263,
+  "n_base_features": 24,
+  "n_cross_features": 18,
+  "reference": "Logistic Regression (poly) [midterm]",
+  "best_end": "Random Forest"
+}

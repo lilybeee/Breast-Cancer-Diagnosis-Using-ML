@@ -1,0 +1,92 @@
+{
+  "selected_model": "Logistic Regression",
+  "selection_rule": "lowest weighted average rank over CV ROC-AUC (w=2), malignant recall (w=2), F1, PR-AUC and balanced accuracy (w=1 each); accuracy alone is not used",
+  "ranking": [
+    {
+      "model": "Logistic Regression",
+      "selection_score": 1.1428571428571428,
+      "cv_roc_auc_mean": 0.9960096319229446,
+      "cv_recall_mean": 0.9568627450980393,
+      "cv_f1_mean": 0.9672290049679636,
+      "cv_accuracy_mean": 0.9758241758241759
+    },
+    {
+      "model": "SVM (RBF)",
+      "selection_score": 2.4285714285714284,
+      "cv_roc_auc_mean": 0.9957000343997247,
+      "cv_recall_mean": 0.9509803921568628,
+      "cv_f1_mean": 0.9659992361067864,
+      "cv_accuracy_mean": 0.9750915750915752
+    },
+    {
+      "model": "Neural Net (MLP)",
+      "selection_score": 2.4285714285714284,
+      "cv_roc_auc_mean": 0.9952528379772959,
+      "cv_recall_mean": 0.9568627450980393,
+      "cv_f1_mean": 0.9652837879886779,
+      "cv_accuracy_mean": 0.9743589743589745
+    },
+    {
+      "model": "SVM (linear)",
+      "selection_score": 4.0,
+      "cv_roc_auc_mean": 0.994702442380461,
+      "cv_recall_mean": 0.9450980392156864,
+      "cv_f1_mean": 0.9639176507752106,
+      "cv_accuracy_mean": 0.9736263736263737
+    },
+    {
+      "model": "Gradient Boosting",
+      "selection_score": 5.428571428571429,
+      "cv_roc_auc_mean": 0.9925008599931201,
+      "cv_recall_mean": 0.9372549019607844,
+      "cv_f1_mean": 0.9470494382417229,
+      "cv_accuracy_mean": 0.9611721611721612
+    },
+    {
+      "model": "Random Forest",
+      "selection_score": 6.571428571428571,
+      "cv_roc_auc_mean": 0.9898864809081528,
+      "cv_recall_mean": 0.927450980392157,
+      "cv_f1_mean": 0.9398522124422837,
+      "cv_accuracy_mean": 0.9560439560439561
+    },
+    {
+      "model": "LDA",
+      "selection_score": 7.285714285714286,
+      "cv_roc_auc_mean": 0.9942552459580323,
+      "cv_recall_mean": 0.8823529411764707,
+      "cv_f1_mean": 0.9329691202982008,
+      "cv_accuracy_mean": 0.9531135531135532
+    },
+    {
+      "model": "KNN",
+      "selection_score": 7.285714285714286,
+      "cv_roc_auc_mean": 0.989439284485724,
+      "cv_recall_mean": 0.9019607843137256,
+      "cv_f1_mean": 0.9425923299946566,
+      "cv_accuracy_mean": 0.9597069597069597
+    },
+    {
+      "model": "Gaussian NB",
+      "selection_score": 8.714285714285714,
+      "cv_roc_auc_mean": 0.988063295493636,
+      "cv_recall_mean": 0.8960784313725492,
+      "cv_f1_mean": 0.9154633648291751,
+      "cv_accuracy_mean": 0.9391941391941393
+    },
+    {
+      "model": "Decision Tree",
+      "selection_score": 9.714285714285714,
+      "cv_roc_auc_mean": 0.9538011695906431,
+      "cv_recall_mean": 0.8882352941176472,
+      "cv_f1_mean": 0.9001902879556051,
+      "cv_accuracy_mean": 0.9267399267399269
+    }
+  ],
+  "best_params": {
+    "C": 1,
+    "penalty": "l2",
+    "solver": "lbfgs"
+  },
+  "n_ties_within_1se": 6
+}

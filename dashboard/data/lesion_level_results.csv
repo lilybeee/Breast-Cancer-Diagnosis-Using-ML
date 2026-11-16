@@ -1,0 +1,3 @@
+model,level,n_units,auc,label_purity,n_excluded_impure
+Random Forest,row,326,0.7707079054027467,,0
+Random Forest,"lesion proxy (pure lesions, mean prob)",172,0.71875,1.0,0

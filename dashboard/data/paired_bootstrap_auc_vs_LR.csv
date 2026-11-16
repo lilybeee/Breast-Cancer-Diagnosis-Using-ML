@@ -1,0 +1,10 @@
+model,AUC diff vs LR,CI_lo,CI_hi,p_boot,CI excludes 0
+SVM,-0.00589,-0.02779,0.01606,0.572,False
+k-NN,0.0106,-0.01156,0.03229,0.324,False
+Decision Tree,-0.02891,-0.05435,-0.00282,0.03,True
+Bernoulli NB,-0.01611,-0.0351,0.00171,0.088,False
+LR + Interactions,0.01561,-0.00189,0.03417,0.086,False
+Random Forest,0.01103,-0.0082,0.03203,0.256,False
+HistGradientBoosting,-0.00302,-0.01914,0.01231,0.718,False
+AdaBoost,-0.00476,-0.02418,0.01203,0.618,False
+Soft-Vote Ensemble,0.00602,-0.00788,0.0197,0.382,False

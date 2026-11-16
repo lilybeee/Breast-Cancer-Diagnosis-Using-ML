@@ -1,0 +1,15 @@
+FINDINGS (auto-generated from run: QUICK_RUN=False, seeds=(42, 7, 2024))
+1. Best nested-CV model: Random Forest AUC 0.819 +/- 0.042; best midterm (Logistic Regression (poly) [midterm]) 0.812 +/- 0.046.
+   dAUC +0.0066 (95% CI -0.0146 to +0.0279), corrected paired t-test p=0.513, Holm p=1.000. The winner was picked post hoc, so this is optimistic.
+2. Tuning objective (balanced-acc -> AUC): 0/6 comparisons significantly better, 0 significantly worse (p<0.05, uncorrected); mean dAUC +0.0015  -> no detectable gain.
+   Class weights: 0/2 comparisons significantly better, 0 significantly worse (p<0.05, uncorrected); mean dAUC -0.0002  -> no detectable gain.
+   Cross features: 0/1 comparisons significantly better, 0 significantly worse (p<0.05, uncorrected); mean dAUC +0.0030  -> no detectable gain.
+   New model families vs best re-tuned midterm: 0/3 comparisons significantly better, 0 significantly worse (p<0.05, uncorrected); mean dAUC +0.0036  -> no detectable gain.
+   Ensembling vs best single: 0/2 comparisons significantly better, 0 significantly worse (p<0.05, uncorrected); mean dAUC -0.0020  -> no detectable gain.
+3. Hold-out ROC-AUC of Random Forest: 0.771 (95% CI 0.685-0.840); reference Logistic Regression (poly) [midterm]: 0.781 (0.696-0.850).
+   0 of 19 models have a hold-out dAUC CI that excludes 0 versus the reference.
+4. At the 90%-recall threshold set on train OOF: Random Forest realised sensitivity 0.907, specificity 0.376, PPV 0.487, NPV 0.860; reference specificity 0.396 at sensitivity 0.907.
+5. Descriptors with odds-ratio CI excluding 1 (top 3 by |log OR|): calc_distribution__UNKNOWN (OR 0.28, 0.20-0.43), calc_type__suspicious (OR 3.27, 2.03-5.65), calc_type__FINE_LINEAR_BRANCHING (OR 2.52, 1.44-3.93)
+   Largest grouped permutation drop: All morphology (type + distribution + crosses) (0.269 AUC).
+6. Lesion proxy: purity 100.0%; row AUC 0.771 vs lesion AUC 0.719.
+Limitations: descriptor-only features; small hold-out; no external validation; OOF thresholds slightly optimistic; lesion id is a proxy.

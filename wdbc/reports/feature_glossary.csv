@@ -1,0 +1,31 @@
+feature,measurement,statistic,what_it_measures,how_it_is_aggregated
+radius_mean,radius,mean,mean distance from the nucleus centre to points on its perimeter,mean of the measurement over all nuclei in the image
+texture_mean,texture,mean,standard deviation of the grey-scale values inside the nucleus,mean of the measurement over all nuclei in the image
+perimeter_mean,perimeter,mean,length of the nuclear boundary,mean of the measurement over all nuclei in the image
+area_mean,area,mean,area enclosed by the nuclear boundary,mean of the measurement over all nuclei in the image
+smoothness_mean,smoothness,mean,local variation in radius lengths along the boundary,mean of the measurement over all nuclei in the image
+compactness_mean,compactness,mean,perimeter^2 / area - 1.0,mean of the measurement over all nuclei in the image
+concavity_mean,concavity,mean,severity of concave portions of the contour,mean of the measurement over all nuclei in the image
+concave_points_mean,concave points,mean,number of concave portions of the contour,mean of the measurement over all nuclei in the image
+symmetry_mean,symmetry,mean,symmetry of the nucleus about its major axis,mean of the measurement over all nuclei in the image
+fractal_dimension_mean,fractal dimension,mean,"'coastline approximation' of the boundary, minus 1",mean of the measurement over all nuclei in the image
+radius_se,radius,se,mean distance from the nucleus centre to points on its perimeter,standard error of the measurement over all nuclei in the image
+texture_se,texture,se,standard deviation of the grey-scale values inside the nucleus,standard error of the measurement over all nuclei in the image
+perimeter_se,perimeter,se,length of the nuclear boundary,standard error of the measurement over all nuclei in the image
+area_se,area,se,area enclosed by the nuclear boundary,standard error of the measurement over all nuclei in the image
+smoothness_se,smoothness,se,local variation in radius lengths along the boundary,standard error of the measurement over all nuclei in the image
+compactness_se,compactness,se,perimeter^2 / area - 1.0,standard error of the measurement over all nuclei in the image
+concavity_se,concavity,se,severity of concave portions of the contour,standard error of the measurement over all nuclei in the image
+concave_points_se,concave points,se,number of concave portions of the contour,standard error of the measurement over all nuclei in the image
+symmetry_se,symmetry,se,symmetry of the nucleus about its major axis,standard error of the measurement over all nuclei in the image
+fractal_dimension_se,fractal dimension,se,"'coastline approximation' of the boundary, minus 1",standard error of the measurement over all nuclei in the image
+radius_worst,radius,worst,mean distance from the nucleus centre to points on its perimeter,mean of the three largest values in the image
+texture_worst,texture,worst,standard deviation of the grey-scale values inside the nucleus,mean of the three largest values in the image
+perimeter_worst,perimeter,worst,length of the nuclear boundary,mean of the three largest values in the image
+area_worst,area,worst,area enclosed by the nuclear boundary,mean of the three largest values in the image
+smoothness_worst,smoothness,worst,local variation in radius lengths along the boundary,mean of the three largest values in the image
+compactness_worst,compactness,worst,perimeter^2 / area - 1.0,mean of the three largest values in the image
+concavity_worst,concavity,worst,severity of concave portions of the contour,mean of the three largest values in the image
+concave_points_worst,concave points,worst,number of concave portions of the contour,mean of the three largest values in the image
+symmetry_worst,symmetry,worst,symmetry of the nucleus about its major axis,mean of the three largest values in the image
+fractal_dimension_worst,fractal dimension,worst,"'coastline approximation' of the boundary, minus 1",mean of the three largest values in the image

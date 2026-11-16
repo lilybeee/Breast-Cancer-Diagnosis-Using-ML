@@ -1,0 +1,28 @@
+{
+  "n_samples": 569,
+  "n_features": 30,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "duplicate_ids": 0,
+  "class_counts": {
+    "benign": 357,
+    "malignant": 212
+  },
+  "malignant_rate": 0.37258347978910367,
+  "test_size": 0.2,
+  "seed": 42,
+  "n_train": 455,
+  "n_test": 114,
+  "train_class_counts": {
+    "benign": 285,
+    "malignant": 170
+  },
+  "test_class_counts": {
+    "benign": 72,
+    "malignant": 42
+  },
+  "positive_class": "Malignant (M = 1)",
+  "inner_cv": "StratifiedKFold(n_splits=5, shuffle=True, random_state=42)",
+  "outer_cv": "RepeatedStratifiedKFold(n_splits=5, n_repeats=3, random_state=42)",
+  "tuning_metric": "roc_auc"
+}

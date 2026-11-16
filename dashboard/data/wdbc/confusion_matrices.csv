@@ -1,0 +1,11 @@
+model,tn,fp,fn,tp
+Logistic Regression,71,1,3,39
+SVM (RBF),72,0,2,40
+Neural Net (MLP),72,0,3,39
+SVM (linear),72,0,2,40
+Gradient Boosting,72,0,4,38
+Random Forest,72,0,3,39
+LDA,72,0,4,38
+KNN,71,1,5,37
+Gaussian NB,72,0,7,35
+Decision Tree,69,3,8,34

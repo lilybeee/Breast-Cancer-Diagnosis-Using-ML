@@ -1,0 +1,8 @@
+model,cv_auc,test_auc
+Logistic Regression,0.8684,0.835
+SVM,0.8693,0.8313
+k-NN,0.8683,0.8397
+Decision Tree,0.8437,0.8095
+Bernoulli NB,0.8664,0.8149
+Random Forest,0.8391,0.8117
+Soft-Vote Ensemble,0.8773,0.8311

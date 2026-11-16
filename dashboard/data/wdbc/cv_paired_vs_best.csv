@@ -1,0 +1,28 @@
+metric,model,reference,mean_diff,ci_lo,ci_hi,ci_excludes_0,conclusion
+roc_auc,Decision Tree,Logistic Regression,0.042208462332301355,0.022993929388439964,0.061422995276162747,True,reference is better
+roc_auc,Gaussian NB,Logistic Regression,0.007946336429308583,0.004743899485298363,0.011148773373318804,True,reference is better
+roc_auc,Gradient Boosting,Logistic Regression,0.003508771929824543,0.0014879954142446943,0.005529548445404391,True,reference is better
+roc_auc,KNN,Logistic Regression,0.006570347437220514,0.002253271113237419,0.010887423761203609,True,reference is better
+roc_auc,LDA,Logistic Regression,0.0017543859649122714,-0.0007381986298028165,0.004246970559627359,False,no demonstrated difference
+roc_auc,Neural Net (MLP),Logistic Regression,0.0007567939456484189,-1.32179036461599e-05,0.0015268057949429977,False,no demonstrated difference
+roc_auc,Random Forest,Logistic Regression,0.0061231510147918755,0.0024489037998594895,0.009797398229724261,True,reference is better
+roc_auc,SVM (RBF),Logistic Regression,0.00030959752321980304,-0.00037987594731179927,0.0009990709937514053,False,no demonstrated difference
+roc_auc,SVM (linear),Logistic Regression,0.0013071895424836776,0.00024938687390668236,0.002364992211060673,True,reference is better
+recall,Decision Tree,Logistic Regression,0.06862745098039218,0.03850633189947721,0.09874857006130713,True,reference is better
+recall,Gaussian NB,Logistic Regression,0.0607843137254902,0.027756323545454056,0.09381230390552635,True,reference is better
+recall,Gradient Boosting,Logistic Regression,0.019607843137254905,-0.004038272670040189,0.04325395894455,False,no demonstrated difference
+recall,KNN,Logistic Regression,0.05490196078431374,0.02628966288766505,0.08351425868096243,True,reference is better
+recall,LDA,Logistic Regression,0.07450980392156864,0.05140527405686186,0.09761433378627542,True,reference is better
+recall,Neural Net (MLP),Logistic Regression,0.0,-0.005625776891115074,0.005625776891115074,False,no demonstrated difference
+recall,Random Forest,Logistic Regression,0.02941176470588236,0.002431486548348457,0.05639204286341626,True,reference is better
+recall,SVM (RBF),Logistic Regression,0.005882352941176472,-0.005647058823529413,0.017411764705882356,False,no demonstrated difference
+recall,SVM (linear),Logistic Regression,0.011764705882352944,-0.0029055254135234056,0.026434937178229295,False,no demonstrated difference
+f1,Decision Tree,Logistic Regression,0.06703871701235863,0.04225347103362127,0.09182396299109598,True,reference is better
+f1,Gaussian NB,Logistic Regression,0.05176564013878862,0.030227991129172092,0.07330328914840514,True,reference is better
+f1,Gradient Boosting,Logistic Regression,0.02017956672624078,0.004594496672519585,0.03576463677996197,True,reference is better
+f1,KNN,Logistic Regression,0.02463667497330703,0.007489595023132137,0.04178375492348192,True,reference is better
+f1,LDA,Logistic Regression,0.034259884669762916,0.015728736023285034,0.0527910333162408,True,reference is better
+f1,Neural Net (MLP),Logistic Regression,0.0019452169792857652,-0.005218240139581236,0.009108674098152766,False,no demonstrated difference
+f1,Random Forest,Logistic Regression,0.027376792525679927,0.008315803439215484,0.046437781612144374,True,reference is better
+f1,SVM (RBF),Logistic Regression,0.0012297688611770422,-0.008623170874834982,0.011082708597189066,False,no demonstrated difference
+f1,SVM (linear),Logistic Regression,0.0033113541927528136,-0.004504709338879404,0.011127417724385032,False,no demonstrated difference
